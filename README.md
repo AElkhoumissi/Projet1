@@ -34,7 +34,7 @@ d'une compagnie aérienne.
 ° Deuxième  méthode:
 
 - Télécherger le projet en cliquant sur "Download" au lieu de le cloner
-- Décompresser le projet, accèder au dossier "exécutable" et exécuter le fichier "GestionVols.exe"
+- Décompresser le projet, accèder au dossier "exécutable" et exécuter le fichier "gestionVols.exe"
 
 
 
